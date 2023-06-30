@@ -1,295 +1,69 @@
 
 ***
 
-# <projectName>
+# [FreeCodeCamp Seanpm2001](#FreeCodeCamp-Seanpm2001)
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
-
-# By:
-
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
-
-### Top
-
-# `README.md`
+`🏕️🔥️🖥️2️⃣️0️⃣️0️⃣️1️⃣️ FreeCodeCamp data, information, usage, and documentation by @seanpm2001`
 
 ***
 
-## Read this article in a different language
+<!-- FreeCodeCamp README todo
+Promote FreeCodeCamp
+Link your profile
+Explain why you shouldn't cheat
+Explain why profile backups aren't included
+Missing data
+!-->
 
-[ar عربى](README_AR.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [fr français](README_FR.md) [de Deutsch](README_DE.md) [EO Esperanto](README_EO.md)  [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md)
+## [Profile](#Profile)
 
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/seanpm2001/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+<img src="https://avatars.githubusercontent.com/u/65933340?v=4" alt="Seanpm2001 pfp failed to load" width="270" height="270">
 
-***
+> **Note** _to self: Please replace this link with a local version in the future._
 
-# Index
+- [`FreeCodeCamp link`](https://www.freecodecamp.org/Seanpm2001/)
 
-[00.0 - Top](#Top)
-
-> [00.1 - Title](#<projectName>)
-
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
-
-> [00.3 - Index](#Index)
-
-[01.0 - Description](#RepositoryName)
-
-[02.0 - About](#About)
-
-[03.0 - Wiki](#Wiki)
-
-[04.0 - Version history](#Version-history)
-
-[05.0 - Software status](#Software-status)
-
-[06.0 - Sponsor info](#Sponsor-info)
-
-[07.0 - Contributers](#Contributers)
-
-[08.0 - Issues](#Issues)
-
-> [08.1 - Current issues](#Current-issues)
-
-> [08.2 - Past issues](#Past-issues)
-
-> [08.3 - Past pull requests](#Past-pull-requests)
-
-> [08.4 - Active pull requests](#Active-pull-requests)
-
-[09.0 - Resources](#Resources)
-
-[10.0 - Contributing](#Contributing)
-
-[11.0 - About README](#About-README)
-
-[12.0 - README Version history](#README-version-history)
-
-[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
-
-> [13.1 - End of file](#EOF)
+`I started to use FreeCodeCamp to boost my programming skills on 2023, May 3rd. I started with a background on various languages, most notably HTML5, Python, Java, JavaScript, and SQL. Let's see where I go from here! :)`
 
 ***
 
-# <repoName>
-<repo_description>
+## [Why you should not cheat](#Why-you-should-not-cheat)
+
+Aside from the Academic Honesty Pledge, and the fact that you won't get your certificates, there are other important reasons why you shouldn't cheat on FreeCodeCamp:
+
+- **You won't learn anything, and your experience will be pointless:** If you cheat on FreeCodeCamp, you won't be able to learn the proper problem solving and programming skills needed for the job. You may think you can just go back and learn it all later on the same site or another site, but this most often doesn't happen.
+- **You will eventually get caught, and found as a fraud:** If you manage to get all of the certificates in FreeCodeCamp through cheating, your programming job will employ methods you don't understand, and of which you won't be able to guess your way through. You will likely be ousted from your position and/or job
+
+Do not just copy and paste my answers. Try to figure out how it is done and learn. I came to this site, as my programming skills were really lacking, and I want to improve. This site really is great, and I am pretty sure you can learn something from it as well.
 
 ***
 
-## About
+## [Profile backups](#Profile-backups)
 
-See above. <extendedRepoDescription>
-
-***
-
-## Wiki
-
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
-
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
+Profile backups currently aren't included, as I feel they contain sensitive information about my account.
 
 ***
 
-## Sponsor info
+## [Missing data](#Missing-data)
 
-![SponsorButton.png](SponsorButton.png)
+- [:octocat: `#1`](https://github.com/seanpm2001/FreeCodeCamp_Seanpm2001/issues/1/)
 
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
+> It appears that I currently don't have a month worth of data on me, so it can't be uploaded here yet. I should be able to upload it in the future.
 
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
-
-Try it out! The sponsor button is right up next to the watch/unwatch button.
+Due to a system crash on 2023 June 13th, I temporarily lost access to some of my data (~3 weeks worth) I got it back, but when copying back from my external hard drive to my backup laptop, a month worth of data didn't seem to copy. This was likely due to an error, or because it was located somewhere else. In the end, I should have my laptop back from repair in a couple weeks, so that I can confirm.
 
 ***
 
-## Version history
+# [File info](#File-info)
 
-**Version history currently unavailable**
-
-**No other versions listed**
+**File version:** `1 (2023, Thursday, June 29th at 11:38 pm PST)`
 
 ***
 
-## Software status
+# [Footer](#Footer)
 
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
+You have reached the end of this page.
 
-![DRM-free_label.en.svg](DRM-free_label.en.svg)
-
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
-
-I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
-
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
-
-***
-
-## Contributers
-
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
-
-> * 2. No other contributers.
-
-***
-
-## Issues
-
-### Current issues
-
-* None at the moment
-
-* No other current issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past issues
-
-* None at the moment
-
-* No other past issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past pull requests
-
-* None at the moment
-
-* No other past pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Active pull requests
-
-* None at the moment
-
-* No other active pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-***
-
-## Resources
-
-Here are some other resources for this project:
-
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
-
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
-
-No other resources at the moment.
-
-***
-
-## Contributing
-
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
-
-[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
-
-***
-
-## About README
-
-File type: `Markdown (*.md)`
-
-File version: `0.1 (Sunday, March 21st 2021 at 7:50 pm)`
-
-Line count: `0,296`
-
-***
-
-## README version history
-
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
-
-> Changes:
-
-> * Started the file
-
-> * Added the title section
-
-> * Added the index
-
-> * Added the about section
-
-> * Added the Wiki section
-
-> * Added the version history section
-
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
-
-> * Added the contributing section
-
-> * Added the about README section
-
-> * Added the README version history section
-
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 1
-
-Version 2 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 2
-
-***
-
-### You have reached the end of the README file
-
-[Back to top](#Top) [Exit](https://github.com)
-
-### EOF
+###### [EOF](#EOF)
 
 ***
