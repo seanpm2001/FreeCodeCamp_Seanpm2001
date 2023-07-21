@@ -17,9 +17,15 @@ Missing data
 
 ## [Profile](#Profile)
 
+<!--
 <img src="https://avatars.githubusercontent.com/u/65933340?v=4" alt="Seanpm2001 pfp failed to load" width="270" height="270">
 
 > **Note** _to self: Please replace this link with a local version in the future._
+!-->
+
+<!-- <img src="/SeniorPhotoFullQuality.jpeg" alt="Seanpm2001 pfp failed to load" width="330" height="214"> TOO WIDE !-->
+
+<img src="/Seanpm2001.jpeg" alt="Seanpm2001 pfp failed to load" width="270" height="270">
 
 - [`FreeCodeCamp link`](https://www.freecodecamp.org/Seanpm2001/)
 
@@ -38,6 +44,12 @@ Do not just copy and paste my answers. Try to figure out how it is done and lear
 
 ***
 
+## [Certificates](#Certificates)
+
+I have not yet earned any certificates as of 2023 July 20th, but I have completed the JavaScript Algorithms and Data Structures unit (on 2023 July 20th)
+
+***
+
 ## [Profile backups](#Profile-backups)
 
 Profile backups currently aren't included, as I feel they contain sensitive information about my account.
@@ -46,17 +58,19 @@ Profile backups currently aren't included, as I feel they contain sensitive info
 
 ## [Missing data](#Missing-data)
 
-- [:octocat: `#1`](https://github.com/seanpm2001/FreeCodeCamp_Seanpm2001/issues/1/)
+- [:octocat: `#1`](https://github.com/seanpm2001/FreeCodeCamp_Seanpm2001/issues/1/) (**Resolved**)
 
 > It appears that I currently don't have a month worth of data on me, so it can't be uploaded here yet. I should be able to upload it in the future.
 
 Due to a system crash on 2023 June 13th, I temporarily lost access to some of my data (~3 weeks worth) I got it back, but when copying back from my external hard drive to my backup laptop, a month worth of data didn't seem to copy. This was likely due to an error, or because it was located somewhere else. In the end, I should have my laptop back from repair in a couple weeks, so that I can confirm.
 
+This issue has since been resolved, but on 2023 July 20th, it has been noted that 3 files are missing.
+
 ***
 
 # [File info](#File-info)
 
-**File version:** `1 (2023, Thursday, June 29th at 11:38 pm PST)`
+**File version:** `2 (2023, Thursday, July 20th at 9:33 pm PST)`
 
 ***
 
