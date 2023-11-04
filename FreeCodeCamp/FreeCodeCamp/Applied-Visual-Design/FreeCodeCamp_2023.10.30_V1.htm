@@ -1,0 +1,44 @@
+<style>
+  button {
+    border-radius: 5px;
+    color: white;
+    background-color: #0F5897;
+    padding: 5px 10px 8px 10px;
+  }
+  /*img:hover {
+    animation-name: width;
+    // animation-name: background-color;
+    animation-duration: 500ms;
+  }*/
+  // Keyframes was in the wrong spot
+  button:hover {
+    animation-name: background-color;
+    animation-duration: 500ms;
+    
+  }
+  // animation-name: width;
+  // /* @keyframes width { */
+
+  @keyframes background-color {
+    100% {
+      background-color: #4791d0;
+    }
+  }
+  /*@keyframes background-color {
+    100% {
+      background-color: #4791d0;
+      /*
+      // background-color: hex(4791d0);
+      // background-color: 4791d0;
+      // background-color: 4791D0;
+      // background-color: background-color;
+      */
+    //}
+  //}
+  /*
+  // Had to use a hint for the first time in weeks, 
+  // didn't know where to go
+//  }}
+*/
+</style>
+<button>Register</button>
