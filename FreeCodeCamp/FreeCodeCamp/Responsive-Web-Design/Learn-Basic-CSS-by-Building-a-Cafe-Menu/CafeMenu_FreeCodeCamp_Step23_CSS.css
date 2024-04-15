@@ -1,0 +1,14 @@
+body {
+  /*
+  background-color: burlywood;
+  */
+}
+
+h1, h2, p {
+  text-align: center;
+}
+
+#menu {
+  width: 300px;
+  background-color: burlywood;
+}
