@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+.gallery img {
+  width: 100%;
+  max-width: 350px;
+  height: 300px;
+}
