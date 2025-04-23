@@ -1,0 +1,14 @@
+body {
+  background: #f5f6f7;
+  color: #1b1b32;
+  font-family: Helvetica;
+  margin: 0;
+}
+
+#logo {
+  width: max(10rem, 18vw);
+  background-color: #0a0a23;
+  aspect-ratio: 35 / 4;
+  padding: 0.4rem;
+}
+
