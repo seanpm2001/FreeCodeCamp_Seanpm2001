@@ -1,0 +1,81 @@
+span[class~="sr-only"] {
+  border: 0 !important;
+  clip: rect(1px, 1px, 1px, 1px) !important;
+  clip-path: inset(50%) !important;
+  height: 1px !important;
+  width: 1px !important;
+  position: absolute !important;
+  overflow: hidden !important;
+  white-space: nowrap !important;
+  padding: 0 !important;
+  margin: -1px !important;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  color: #0a0a23;
+}
+
+h1 {
+  max-width: 37.25rem;
+  margin: 0 auto;
+  padding: 1.5rem 1.25rem;
+}
+
+h1 .flex {
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 1rem;
+}
+
+h1 .flex span:first-of-type {
+  font-size: 0.7em;
+}
+
+h1 .flex span:last-of-type {
+  font-size: 1.2em;
+}
+
+section {
+  max-width: 40rem;
+  margin: 0 auto;
+  border: 2px solid #d0d0d5;
+}
+
+#years {
+  display: flex;
+  justify-content: flex-end;
+  position: sticky;
+  z-index: 999;
+  top: 0;
+  background: #0a0a23;
+  color: #fff;
+  padding: 0.5rem calc(1.25rem + 2px) 0.5rem 0;
+  margin: 0 -2px;
+}
+
+#years span[class] {
+  font-weight: bold;
+  width: 4.5rem;
+  text-align: right;
+}
+
+.table-wrap {
+  padding: 0 0.75rem 1.5rem 0.75rem;
+}
+
+span {
+  font-weight: normal;
+}
+
+table {
+  border-collapse: collapse;
+  border: 0;
+  width: 100%;
+  position: relative;
+  margin-top: 3rem;
+}
