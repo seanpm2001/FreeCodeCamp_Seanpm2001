@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #c9d2fc;
+}
+
+.cat-head {
+  position: absolute;
+  right: 0;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  background: linear-gradient(#5e5e5e 85%, #45454f 100%);
+  width: 205px;
+  height: 180px;
+  border: 1px solid #000;
+  border-radius: 46%;
+}
+
+.cat-right-ear {
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  border-right: 35px solid blue;
+  border-left: 35px solid blue;
+  border-top: 35px solid red;
+  border-bottom: 35px solid red;
+}
