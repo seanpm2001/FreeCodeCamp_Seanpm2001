@@ -1,0 +1,16 @@
+body {
+  background: linear-gradient(45deg, rgb(118, 201, 255), rgb(247, 255, 222));
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.ground {
+  width: 100vw;
+  height: 400px;
+  background: linear-gradient(90deg, rgb(88, 175, 236), rgb(182, 255, 255));
+  z-index: 3;
+  position: absolute;
+}
