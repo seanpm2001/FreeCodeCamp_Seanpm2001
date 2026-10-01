@@ -93,10 +93,13 @@ body {
   left: 5%;
   border-radius: 70% 70% 100% 100%;
 }
+
 .eye {
   width: 15%;
   height: 17%;
   background-color: black;
+  top: 45%;
+  border-radius: 50%;
 }
 .penguin-body {
   width: 53%;
