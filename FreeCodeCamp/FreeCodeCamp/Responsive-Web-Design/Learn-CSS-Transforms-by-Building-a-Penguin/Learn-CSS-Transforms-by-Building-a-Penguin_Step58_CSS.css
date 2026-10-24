@@ -101,11 +101,49 @@ body {
   top: 45%;
   border-radius: 50%;
 }
+
 .eye.left {
   left: 25%;
 }
+
 .eye.right {
   right: 25%;
+}
+
+.eye-lid {
+  width: 150%;
+  height: 100%;
+  background-color: var(--penguin-face);
+  top: 25%;
+  left: -23%;
+  border-radius: 50%;
+}
+
+.blush {
+  width: 15%;
+  height: 10%;
+  background-color: pink;
+  top: 65%;
+  border-radius: 50%;
+}
+
+.blush.left {
+  left: 15%;
+}
+
+.blush.right {
+  right: 15%;
+}
+
+.beak {
+  height: 10%;
+  background-color: orange;
+  border-radius: 50%;
+}
+.beak.top {
+  width: 20%;
+  top: 60%;
+  left: 40%;
 }
 .penguin-body {
   width: 53%;
