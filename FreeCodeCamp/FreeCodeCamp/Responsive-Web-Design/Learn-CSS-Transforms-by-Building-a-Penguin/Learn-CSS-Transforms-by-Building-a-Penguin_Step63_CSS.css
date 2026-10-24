@@ -118,10 +118,44 @@ body {
   left: -23%;
   border-radius: 50%;
 }
+
 .blush {
   width: 15%;
   height: 10%;
   background-color: pink;
+  top: 65%;
+  border-radius: 50%;
+}
+
+.blush.left {
+  left: 15%;
+}
+
+.blush.right {
+  right: 15%;
+}
+
+.beak {
+  height: 10%;
+  background-color: orange;
+  border-radius: 50%;
+}
+
+.beak.top {
+  width: 20%;
+  top: 60%;
+  left: 40%;
+}
+
+.beak.bottom {
+  width: 16%;
+  top: 65%;
+  left: 42%;
+}
+.shirt {
+  font-size: 25px;
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
 }
 .penguin-body {
   width: 53%;
